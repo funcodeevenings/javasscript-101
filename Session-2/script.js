@@ -26,9 +26,14 @@ console.log("Assignment-1",c)
 
 // WAS to print 5th power of 15.
 
+a=15**5
+console.log("Assignment-2",a)
+
 
 // WAS to print remainder when 22 is divided by 7
 
+a=22%7
+console.log("Assignment-3",a)
 
 
 // Assign a variable with value 5 and post increment it thrice, print its value every time
@@ -36,9 +41,19 @@ console.log("Assignment-1",c)
 a=5
 a++
 console.log("Assignment-5",a)
-
+a++
+console.log("Assignment-5",a)
+a++
+console.log("Assignment-5",a)
 
 
 // Pre increment the same variable thrice and print its value
 
+a=5
+++a
+console.log("Assignment-6",a)
+++a
+console.log("Assignment-6",a)
+++a
+console.log("Assignment-6",a)
 
